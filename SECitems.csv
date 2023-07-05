@@ -1,0 +1,22 @@
+,ConceptNameFY,type,ItemFY,Description,ConceptNameQTR,ItemQTR
+0,Assets,extra,extra,a1,Assets,extra
+1,Revenues,extra,extra,a2,Revenues,extra
+2,NetIncomeLoss,item,earningsFY,"Total earnings posted for the reporting period defined.  Note this should be the raw earnings, not earnings per share",NetIncomeLoss,earningsQTR
+3,AccumDepreciation,calc,cummDepreciationFY,Accumulated depreciation is a running total of depreciation expense reported on the balance sheet,AccumDepreciation,cummDepreciationQTR
+4,Depreciation,item,depreciationExpenseFY,Depreciation expense is reported on the income statement as any other normal business expense,Depreciation,depreciationExpenseQTR
+5,Amortization,calc,amortizationFY,Amortization is an accounting technique used to periodically lower the book value of a [loan](https://www.investopedia.com/terms/l/loan.asp) or an [intangible asset](https://www.investopedia.com/terms/i/intangibleasset.asp) over a set period of time,Amortization,amortizationQTR
+6,CapitalExpenditures,calc,totalCapexFY,Capital expenditures (CapEx) can also be found on the cash flow statement under the Investing Activities section. Capital expenditures can also be listed as Property Plant and Equipment (PP&E) which are both the same thing just named differently,CapitalExpenditures,totalCapexQTR
+7,MaintenanceCapEx,calc,maintenanceCapExFY,Money a company spends to restore assets to what they were before,MaintenanceCapEx,maintenanceCapExQTR
+8,NetCashProvidedByUsedInOperatingActivities,item,operatingCashFlowFY,Cash that's generated from normal business operations or activities.,NetCashProvidedByUsedInOperatingActivities,operatingCashFlowQTR
+9,FreeCashFlow,calc,freeCashFlowFY,Cash that a company generates from its normal business operations before interest payments and after subtracting any money spent on capital expenditures,FreeCashFlow,freeCashFlowQTR
+10,Extra1,notused,extra,"Extra1 -- not used, ignore",extra,extra
+11,OperatingIncomeLoss,extra,extra,x1,OperatingIncomeLoss,extra
+12,DepreciationAndAmortization,extra,extra,x3,DepreciationAndAmortization,extra
+13,PropertyPlantAndEquipmentGross,extra,extra,x4,PropertyPlantAndEquipmentGross,extra
+14,PropertyPlantAndEquipmentNet,extra,extra,x5,PropertyPlantAndEquipmentNet,extra
+15,PropertyPlantAndEquipmentAdditions,extra,extra,x6,PropertyPlantAndEquipmentAdditions,extra
+16,ProceedsFromSaleOfPropertyPlantAndEquipment,extra,extra,x7,ProceedsFromSaleOfPropertyPlantAndEquipment,extra
+17,AmortizationOfIntangibleAssets,extra,extra,x8,AmortizationOfIntangibleAssets,extra
+18,AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment,extra,extra,x9,AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment,extra
+19,WeightedAverageNumberOfSharesOutstandingBasic,item,sharesOutstandingFY,Weighted average of outstanding basic shares,WeightedAverageNumberOfSharesOutstandingBasic,sharesOutstandingQTR
+20,CommonStockSharesOutstanding,item,sharesCommonOutstanding,Common stock shares outstanding refer to a companys common shares outstanding,CommonStockSharesOutstanding,sharesCommonOutstandingQTR
